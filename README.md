@@ -1,4 +1,2 @@
 # OSSPrac
-# 'test'
 
-Weather : Clean
